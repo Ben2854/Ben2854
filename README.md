@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Idk, I am interested in learning how to code, though I have no idea what I am doing. My favorite hobby is either playing in band or reading.
 <!--
 **Ben2854/Ben2854** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
